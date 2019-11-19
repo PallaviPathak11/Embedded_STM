@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log>
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1861</ColumnWidth1></Debug-Log>
+      <Build>
+        <ColumnWidth0>20</ColumnWidth0>
+        <ColumnWidth1>1395</ColumnWidth1>
+        <ColumnWidth2>372</ColumnWidth2>
+        <ColumnWidth3>93</ColumnWidth3>
+      </Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>124</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        <PreferedWindows>
+          <Position>2</Position>
+          <ScreenPosX>0</ScreenPosX>
+          <ScreenPosY>0</ScreenPosY>
+          <Windows/>
+        </PreferedWindows>
+        <ShowCodeCoverage>1</ShowCodeCoverage>
+        <ShowInstrProfiling>1</ShowInstrProfiling>
+        <col-names>
+          <item>Disassembly</item>
+          <item>_I0</item>
+        </col-names>
+        <col-widths>
+          <item>500</item>
+          <item>20</item>
+        </col-widths>
+        <DisasmHistory/>
+      </Disassembly>
+      <Register>
+        <RegFindHistory/>
+        <PreferedWindows>
+          <Position>2</Position>
+          <ScreenPosX>0</ScreenPosX>
+          <ScreenPosY>0</ScreenPosY>
+          <Windows>
+            <Window>
+              <Factory>WATCH_1</Factory>
+            </Window>
+            <Window>
+              <Factory>Register</Factory>
+            </Window>
+          </Windows>
+        </PreferedWindows>
+      </Register>
+      <WATCH_1>
+        <expressions>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+        <item>*(uint32_t*)(u_USART3 + 0x0000001C) |= (0 &lt;&lt; 6)</item><item>*(uint32_t*)(u_USART3 + 0x0000001C)</item><item>*(uint32_t*)(u_USART3 + 0x0000001C) || (1 &lt;&lt; 6)</item><item>~(1 &lt;&lt; 6)</item><item>*(uint32_t*)(u_USART3 + 0x0000001C)</item><item>*(uint32_t*)(u_USART3 + 0x0000001C) | (0 &lt;&lt; 6)</item><item>*(uint32_t*)(u_USART3 + 0x0000001C) | (0 &lt;&lt; 6)</item><item>*(uint32_t*)(u_USART3 + 0x0000001C) || (0 &lt;&lt; 6)</item><item>*(uint32_t*)(u_USART3 + 0x0000001C) || (0 &lt;&lt; 21)</item><item>*(uint32_t*)(u_USART3 + 0x0000001C)</item><item>0</item><item>*(uint32_t*)(u_USART3 + 0x0000001C) || (0 &lt;&lt; 21)</item><item>(*(uint32_t*)(u_USART3 + 0x0000001C))</item><item>*(uint32_t*)(u_USART3 + 0x0000001C) &amp; (1 &lt;&lt; 21)</item><item>u_USART3</item><item>sendChar</item><item>RCC_SYSCLK_DIV1</item><item>*(uint32_t*)(u_USART3 + 0x0000001C) &amp; (1 &lt;&lt; 7)</item><item>*(uint32_t*)(u_USART3 + 0x0000001C) &amp; (1 &lt;&lt; 8) == 1)</item><item>*(uint32_t*)(u_USART3 + 0x0000001C) &amp;&amp; (1 &lt;&lt; 7)</item><item>*(uint32_t*)(u_USART3 + 0x0000001C) &amp;&amp; (1 &lt;&lt; 6)</item><item>*(uint32_t*)(u_USART3 + 0x0000001C) &amp;&amp; (1 &lt;&lt; 6)</item><item>*(uint32_t*)(u_USART3 + 0x0000001C) &amp;&amp; (1 &lt;&lt; 6) == 1</item><item>sendChar[count]</item><item/></expressions>
+        <col-names>
+          
+          
+          
+          
+        <item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names>
+        <col-widths>
+          
+          
+          
+          
+        <item>344</item><item>150</item><item>100</item><item>319</item></col-widths>
+        <PreferedWindows>
+          <Position>2</Position>
+          <ScreenPosX>0</ScreenPosX>
+          <ScreenPosY>0</ScreenPosY>
+          <Windows>
+            <Window>
+              <Factory>Register</Factory>
+            </Window>
+            <Window>
+              <Factory>Register</Factory>
+            </Window>
+          </Windows>
+        </PreferedWindows>
+      </WATCH_1>
+    <QuickWatch><col-names><item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names><col-widths><item>213</item><item>150</item><item>100</item><item>293</item></col-widths><QWatchHistory><item>'\0' != sendChar[count]</item><item>sendChar[count]</item><item>(*(uint32_t*)(u_USART3 + 0x0000001C) &amp;&amp; (1 &lt;&lt; 7))</item><item>(*(uint32_t*)(u_USART3 + 0x0000001C) &amp; (1 &lt;&lt; 7))</item><item>*(uint32_t*)(u_USART3 + 0x0000001C)</item><item>*(uint32_t*)(u_USART3 + 0x0000001C) &amp;&amp; (1 &lt;&lt; 21)</item><item>(1 &lt;&lt; 6)</item><item>(*(uint32_t*)(u_USART3 + 0x0000001C) &amp;&amp; (1 &lt;&lt; 6))</item><item>*(uint32_t*)(u_USART3 + 0x0000001C) &amp;&amp; (1 &lt;&lt; 6)</item><item>*(uint32_t*)(u_USART3 + 0x0000001C) &amp; (1 &lt;&lt; 6)</item></QWatchHistory></QuickWatch></Static>
+    <Windows>
+      
+      
+      
+    <Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-9011-6497</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-8488-6507</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-28336-24761</Identity>
+            <TabName>Watch 1</TabName>
+            <Factory>WATCH_1</Factory>
+          </Tab>
+        <Tab><Identity>TabID-18987-27067</Identity><TabName>Quick Watch</TabName><Factory>QuickWatch</Factory></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1><Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-19760-6500</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>UART_without_HAL</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd5>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-19679-24719</Identity>
+            <TabName>Register</TabName>
+            <Factory>Register</Factory>
+            <Session>
+              
+              
+              
+              
+              
+              
+            <State5>USART3_TDR</State5><REG1>0</REG1><REG2>0</REG2><Group>27</Group><States>5</States><State0>RCC_CR</State0><State1>RCC_PLLCFGR</State1><State2>USART3_CR1</State2><State3>USART3_ICR</State3><State4>USART3_ISR</State4></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd5></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Drivers\STM32F7xx_HAL_Driver\Src\stm32f7xx_hal.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>240</YPos2><SelStart2>6912</SelStart2><SelEnd2>6912</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Drivers\STM32F7xx_HAL_Driver\Inc\stm32f7xx_hal_rcc_ex.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>614</YPos2><SelStart2>32050</SelStart2><SelEnd2>32050</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Src\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>156</YPos2><SelStart2>6016</SelStart2><SelEnd2>6016</SelEnd2></Tab><ActiveTab>2</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Drivers\STM32F7xx_HAL_Driver\Inc\stm32f7xx_hal_rcc.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>197</YPos2><SelStart2>8731</SelStart2><SelEnd2>8731</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Drivers\CMSIS\Device\ST\STM32F7xx\Include\stm32f767xx.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>56</XPos2><YPos2>10570</YPos2><SelStart2>928012</SelStart2><SelEnd2>928012</SelEnd2></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-09C0A808><key>debuggergui.enu1</key></Toolbar-09C0A808><Toolbar-0082C258><key>iaridepm.enu1</key></Toolbar-0082C258></Sizes></Row0><Row1><Sizes><Toolbar-09C0AFD8><key>armstlink2.enu1</key></Toolbar-09C0AFD8></Sizes></Row1><Row2><Sizes/></Row2></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>730</Bottom><Right>198</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>104167</sizeHorzCX><sizeHorzCY>200602</sizeHorzCY><sizeVertCX>104167</sizeVertCX><sizeVertCY>734203</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes><Wnd5><Rect><Top>-2</Top><Left>-2</Left><Bottom>730</Bottom><Right>488</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>104167</sizeHorzCX><sizeHorzCY>200602</sizeHorzCY><sizeVertCX>255208</sizeVertCX><sizeVertCY>734203</sizeVertCY></Rect></Wnd5></Sizes></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>198</Bottom><Right>1922</Right><x>-2</x><y>-2</y><xscreen>1924</xscreen><yscreen>200</yscreen><sizeHorzCX>1002083</sizeHorzCX><sizeHorzCY>200602</sizeHorzCY><sizeVertCX>104167</sizeVertCX><sizeVertCY>200602</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+
