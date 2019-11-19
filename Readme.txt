@@ -1,4 +1,4 @@
 This folder contains Embedded codes
-Adding new line from branch 1.
+Controller used is : STF7 microcontroller.
 
 
